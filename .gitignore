@@ -1,0 +1,11 @@
+export.xml
+export_cda.xml
+health.sqlite
+health_with_meta.sqlite
+inventory.json
+plots/
+electrocardiograms/
+workout-routes/
+.venv/
+.mplconfig/
+__pycache__/

@@ -34,3 +34,6 @@ and advanced queries that the Health app does not expose.
 ## Notes
 - `scripts/health_postprocess.py` normalizes source names and builds views.
 - Large files are excluded by `.gitignore` by default.
+
+## License
+MIT
